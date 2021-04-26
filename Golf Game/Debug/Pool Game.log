@@ -1,0 +1,7 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  simulation.cpp
+E:\Pool Game\Pool Game v2.0\simulation.cpp(205,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Pool Game\Pool Game v2.0\simulation.cpp(206,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Pool Game\Pool Game v2.0\simulation.cpp(207,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Pool Game.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Pool Game.vcxproj -> E:\Pool Game\Pool Game v2.0\Debug\Pool Game.exe
